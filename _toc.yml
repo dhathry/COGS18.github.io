@@ -11,8 +11,8 @@ parts:
       title: ASSIGNMENTS
   - caption: Lectures
     chapters:
-    - file: materials/01-Introduction
-      title: 01-Introduction
+    # - file: materials/01-Introduction
+      # title: 01-Introduction
   #   - file: materials/02-Tooling
   #     title: 02-Tooling
   #   - file: materials/03-Variables
