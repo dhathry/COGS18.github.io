@@ -7,6 +7,7 @@
 ## COURSE OVERVIEW
 
 Welcome to COGS 18! The core goal of this class is to teach you introductory, hands-on skills for computer programming, specifically using the Python programming language. We aim to do so in a way that fits well within the cognitive science department, using particularly-relevant use cases. Our approach is to focus on programming as a tool and to get you started with the necessary background and basic skills required to get you reading and writing code. We aim to provide you with a strong foundation so that you can continue programming after you leave this class, applying the skills you learn here to your domain or topic of interest.
+
 ---
 
 ## COURSE STAFF & INFORMATION
