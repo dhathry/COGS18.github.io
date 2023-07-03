@@ -16,11 +16,11 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | ----------     | -------------------- | --------------- | ------------------ |
 | **Lecture**    | Eric Morgan          | MTuWTh 2-3:20   | CSB 001  |
 |                |                      |                 |                    |
-| **Coding lab** | Nimit & Siddarth     | MW 1-2:00p      | CSB 001            |
+| **Coding lab** | Nimit & Siddharth     | MW 1-2:00p      | CSB 001            |
 | **Office Hours** |                    |                 |                    |
 |                | **Eric Morgan**      | W 4:30-6:00p    | CSB 263               |
 |                | Nimit Vasavat        | Th 3:30-4:30p   | TBD               |
-|                | Siddarth Trivedi     | Tu 3:30-4:30p   | TBD               |
+|                | Siddharth Trivedi     | Tu 3:30-4:30p   | TBD               |
 
 
 ## Important Links
