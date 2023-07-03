@@ -152,9 +152,12 @@ const thebe_selector_output = ".output, .cell_output"
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">Course Info</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">SYLLABUS</a></li>
-
 <li class="toctree-l1"><a class="reference internal" href="labs/overview.html">CODING LABS</a></li>
 <li class="toctree-l1"><a class="reference internal" href="assignments/overview.html">ASSIGNMENTS</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lectures</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../../materials/01-Introduction.html">01-Introduction</a></li>
 </ul>
 
     </div>
@@ -365,24 +368,20 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">SYLLABUS</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-overview">COURSE OVERVIEW</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-staff-information">COURSE STAFF &amp; INFORMATION</a></li>
-</ul>
-</li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#important-links">Important Links</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#important-links">Important Links</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-objectives">COURSE OBJECTIVES</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-materials">COURSE MATERIALS</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grading-attendance">GRADING &amp; ATTENDANCE</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#grades">Grades</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-i-already-know-python-grading-policy">The “I already know Python” Grading Policy</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignment-regrades">Assignment Regrades</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#in-person-illness-policy">In-person illness policy</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture">Lecture</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coding-labs-16">Coding Labs (16%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignments-40">Assignments (40%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#midterms-25">Midterms (25%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#final-project-or-exam-19">Final Project OR Exam (19%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coding-labs-15">Coding Labs (15%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignments-35">Assignments (35%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#midterm-25">Midterm (25%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#final-exam-25">Final Exam (25%)</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-schedule">COURSE SCHEDULE</a></li>
@@ -399,9 +398,6 @@ document.write(`
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-
             </nav>
         </div>
     </div>
@@ -414,7 +410,7 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="syllabus">
 <h1>SYLLABUS<a class="headerlink" href="#syllabus" title="Permalink to this heading">#</a></h1>
-<p><strong>Introduction to Python</strong> | <strong>Spring 2023</strong></p>
+<p><strong>Introduction to Python</strong> | <strong>Summer Session I 2023</strong></p>
 <hr class="docutils" />
 <section id="course-overview">
 <h2>COURSE OVERVIEW<a class="headerlink" href="#course-overview" title="Permalink to this heading">#</a></h2>
@@ -433,9 +429,9 @@ document.write(`
 </thead>
 <tbody>
 <tr class="row-even"><td><p><strong>Lecture</strong></p></td>
-<td><p>Prof Ellis</p></td>
-<td><p>TuTh 11-12:20</p></td>
-<td><p>Peterson Hall 108</p></td>
+<td><p>Eric Morgan</p></td>
+<td><p>MTuWTh 2-3:20</p></td>
+<td><p>CSB 001</p></td>
 </tr>
 <tr class="row-odd"><td><p></p></td>
 <td><p></p></td>
@@ -443,49 +439,9 @@ document.write(`
 <td><p></p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Coding lab</strong></p></td>
-<td><p>Pooja &amp; Josh Salce</p></td>
-<td><p>W 10:00a-10:50a</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Pooja &amp; Josh Salce</p></td>
-<td><p>W 11:00a-11:50a</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Mingson &amp; Lillian</p></td>
-<td><p>W 12:00p-12:50p</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Mingson &amp; Lillian</p></td>
-<td><p>W 1:00p-1:50p*</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Annapurna &amp; Josh Chen</p></td>
-<td><p>W 2:00p-2:50p</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Annapurna &amp; Josh Chen</p></td>
-<td><p>W 3:00p-3:50p</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Will &amp; Jiayi</p></td>
-<td><p>W 4:00p-4:50p</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Will &amp; Jiayi</p></td>
-<td><p>W 5:00p-5:50p</p></td>
-<td><p>CSB 115</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Ethan</p></td>
-<td><p>W 6:00p-6:50p</p></td>
-<td><p>CSB 115</p></td>
+<td><p>Nimit &amp; Siddarth</p></td>
+<td><p>MW 1-2:00p</p></td>
+<td><p>CSB 001</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Office Hours</strong></p></td>
 <td><p></p></td>
@@ -493,79 +449,35 @@ document.write(`
 <td><p></p></td>
 </tr>
 <tr class="row-even"><td><p></p></td>
-<td><p>Pooja Patha</p></td>
-<td><p>Tu 10-11a</p></td>
-<td><p>Zoom</p></td>
+<td><p><strong>Eric Morgan</strong></p></td>
+<td><p>W 4:30-6:00p</p></td>
+<td><p>CSB 263</p></td>
 </tr>
 <tr class="row-odd"><td><p></p></td>
-<td><p>Will McCarthy</p></td>
-<td><p>Tu 3-4p</p></td>
-<td><p>Zoom</p></td>
+<td><p>Nimit Vasavat</p></td>
+<td><p>Th 3:30-4:30p</p></td>
+<td><p>TBD</p></td>
 </tr>
 <tr class="row-even"><td><p></p></td>
-<td><p>Mingson Leung</p></td>
-<td><p>Tu 1-2p</p></td>
-<td><p>Zoom</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Annapurna Vadaparty</p></td>
-<td><p>W 1-2p</p></td>
-<td><p>Cogsci Kitchen</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Annapurna Vadaparty</p></td>
-<td><p>Th 1-2p</p></td>
-<td><p>CSB 114</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p><strong>Prof Ellis</strong></p></td>
-<td><p>Th 1-3p</p></td>
-<td><p>CSB 114</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Jiayi Dong</p></td>
-<td><p>Th 4-5p</p></td>
-<td><p>Zooom</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Josh Salce</p></td>
-<td><p>Fri 11a-12p</p></td>
-<td><p>M.O.M’s Cafe</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Ethan Cheng</p></td>
-<td><p>Fri 1-2p</p></td>
-<td><p>CSB 114</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p>Lillian Ho</p></td>
-<td><p>Fri 2-3p</p></td>
-<td><p>Zoom</p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p>Josh Chen</p></td>
-<td><p>Fri 5-6p</p></td>
-<td><p>Zoom</p></td>
+<td><p>Siddarth Trivedi</p></td>
+<td><p>Tu 3:30-4:30p</p></td>
+<td><p>TBD</p></td>
 </tr>
 </tbody>
 </table>
-<p>* The registrar accidentally scheduled this section for Mon rather than Wed and the error was only caught after students had enrolled. If we had asked to officially change the day to Wed (what it’s going to be), those who had already enrolled would have been dropped from the course. So, <strong>your schedule will still say Monday, but all labs are on Wednesdays</strong>. Attendance is not required and you have the option to attend at a different time on Wednesday if needed, so I hope this small change will not negatively impact any students while allowing for all students to complete and attend labs  on the same day of the week.</p>
 </section>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="important-links">
-<h1>Important Links<a class="headerlink" href="#important-links" title="Permalink to this heading">#</a></h1>
+<section id="important-links">
+<h2>Important Links<a class="headerlink" href="#important-links" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
 <li><p><a class="reference external" href="https://cogs18.github.io">Course Website</a></p></li>
 <li><p><a class="reference external" href="https://cogs18.github.io/assets/intro/syllabus.html">Our syllabus</a></p></li>
-<li><p><a class="reference external" href="https://canvas.ucsd.edu/courses/45061">Course Canvas</a></p></li>
-<li><p><a class="reference external" href="https://piazza.com/ucsd/spring2023/cogs18/home">Course Piazza*</a></p></li>
-<li><p>[ClassQuestion]</p></li>
+<li><p><a class="reference external" href="https://canvas.ucsd.edu/courses/47964">Course Canvas</a></p></li>
+<li><p><a class="reference external" href="https://piazza.com/ucsd/summer2023/cogs18_s123_a00">Course Piazza*</a></p></li>
 <li><p><a class="reference external" href="https://datahub.ucsd.edu">DataHub</a></p></li>
-<li><p><span class="xref myst">Daily Lecture Participation Survey</span></p></li>
 <li><p><a class="reference external" href="https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&amp;urlpath=tree%2FLectureNotes-COGS18%2F&amp;branch=main">Click me to synchronize the most recent lecture materials to your DataHub</a></p></li>
-<li><p><a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSd1YNH8CqBbVxr_M9v_c3X-XLqySLrBfYE7GwuAshFMCP_WvQ/viewform?usp=sf_link">Anonymous feedback via Google Form</a></p></li>
 </ul>
 <p>*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. The instructional staff will be able to see who you are.</p>
+</section>
 <hr class="docutils" />
 <section id="course-objectives">
 <h2>COURSE OBJECTIVES<a class="headerlink" href="#course-objectives" title="Permalink to this heading">#</a></h2>
@@ -607,20 +519,20 @@ document.write(`
 </thead>
 <tbody>
 <tr class="row-even"><td class="text-right"><p>Assignments</p></td>
-<td class="text-center"><p>40%</p></td>
+<td class="text-center"><p>35%</p></td>
 <td class="text-left"><p>Complete 5 Assignments</p></td>
 </tr>
-<tr class="row-odd"><td class="text-right"><p>Midterms</p></td>
+<tr class="row-odd"><td class="text-right"><p>Midterm</p></td>
 <td class="text-center"><p>25%</p></td>
-<td class="text-left"><p>Complete 2 Exams</p></td>
+<td class="text-left"><p>Complete Midterm Exam</p></td>
 </tr>
 <tr class="row-even"><td class="text-right"><p>Coding Lab</p></td>
-<td class="text-center"><p>16%</p></td>
+<td class="text-center"><p>15%</p></td>
 <td class="text-left"><p>Participate in 8 Coding Labs (lowest lab dropped)</p></td>
 </tr>
 <tr class="row-odd"><td class="text-right"><p>Final Project</p></td>
-<td class="text-center"><p>19%</p></td>
-<td class="text-left"><p>Complete Final Project OR Final Exam</p></td>
+<td class="text-center"><p>25%</p></td>
+<td class="text-left"><p>Complete Final Exam</p></td>
 </tr>
 </tbody>
 </table>
@@ -677,10 +589,6 @@ document.write(`
 </tbody>
 </table>
 </section>
-<section id="the-i-already-know-python-grading-policy">
-<h3>The “I already know Python” Grading Policy<a class="headerlink" href="#the-i-already-know-python-grading-policy" title="Permalink to this heading">#</a></h3>
-<p>If you have to take this course to fulfill a requirement but are already <em>very</em> familiar with the course content, there is an option for you! I’m interested in student learning, not busy work, so if you already know the material, let’s save you some time. Students who choose this option only have to complete the two midterms (both the in-person and take-home portions) and either the final exam or the final project. Each midterm will count for 25% of your final grade and the final will count for 50% of your final grade. Students may opt-into this at any time during the quarter up until the due date of the final by filling out <a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSeKS8e2a5cMDNontmy1a6X7-nEty_wLCyU7q2oCcEZx4cCYUA/viewform?usp=sf_link">this form</a>; however, <strong>once you opt in you cannot change your mind</strong>. For example, if you decide in week 4 that you want to opt-in and then bomb the first exam, you cannot change your mind in week 6, as you would then be behind, would have missed some deadlines, and  dealing with this logistical nightmare would not be fair to course staff. That said, <strong>if you’re on the fence, I’d encourage you to complete the course as designed until you’re certain you want to go this route.</strong></p>
-</section>
 <section id="assignment-regrades">
 <h3>Assignment Regrades<a class="headerlink" href="#assignment-regrades" title="Permalink to this heading">#</a></h3>
 <p>We will work hard to grade everyone fairly and return assignments quickly. And, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it’s important to us to correct them. If you think there is a mistake in your grade on an assignment, post <em>privately</em> on Piazza to “Instructors &amp; TAs” using the “regrades” tag within 72 hours. This post should include evidence of why you think your answer was correct and should point to the specific part of the assignment in question.</p>
@@ -692,31 +600,26 @@ document.write(`
 </section>
 <section id="lecture">
 <h3>Lecture<a class="headerlink" href="#lecture" title="Permalink to this heading">#</a></h3>
-<p>Students are encouraged to attend lecture live; however, <strong>in-person attendance is not required, <em>except</em> on exam days</strong>. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates’ thoughts during lecture. To incentivize attendance, we will use the ClassQuestion app for in-class Q&amp;A. Students will receive a small amount of extra credit for <em>each</em> lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (<em>not</em> the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).</p>
+<p>Students are encouraged to attend lecture live; however, <strong>in-person attendance is not required, <em>except</em> on exam days</strong>. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates’ thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&amp;A. Students will receive a small amount of extra credit for <em>each</em> lecture attended, up to 5% extra credit (for those who attend every lecture) on their final exam (<em>not</em> the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).</p>
 </section>
-<section id="coding-labs-16">
-<h3>Coding Labs (16%)<a class="headerlink" href="#coding-labs-16" title="Permalink to this heading">#</a></h3>
-<p>Lab times will be used to get hands-on practice with the course material in a smaller group setting. As such, you will be provided with specific tutorials or activities each week that are focused on preparing you for the assignments. Across the quarter there will be 9 different coding labs (2% each; lowest coding lab score dropped). Coding labs are <em>graded for concerted effort</em> (not correctness). To receive credit for a coding lab, you have to submit your attempted coding lab for that week by Wednesday at 11:59 pm each week. There are no late submissions for coding labs.</p>
-<p>Note: You should be signed up for the Coding Lab for which you can attend. However, if you are unable to attend the Coding Lab for which you are signed up, you are free to attend the other Coding Lab in a given week. Note that this policy could change if too many people are attending one Coding Lab each week. We intentionally have Coding Lab capped at 35 so that students can get help from their TAs and IAs during this time.</p>
+<section id="coding-labs-15">
+<h3>Coding Labs (15%)<a class="headerlink" href="#coding-labs-15" title="Permalink to this heading">#</a></h3>
+<p>Lab times will be used to get hands-on practice with the course material in a smaller group setting. As such, you will be provided with specific tutorials or activities each week that are focused on preparing you for the assignments. Across the quarter there will be 9 different coding labs (~2% each; lowest coding lab score dropped). Coding labs are <em>graded for concerted effort</em> (not correctness). To receive credit for a coding lab, you have to submit your attempted coding lab for that week by 11:59 pm each lab day. There are no late submissions for coding labs.</p>
 </section>
-<section id="assignments-40">
-<h3>Assignments (40%)<a class="headerlink" href="#assignments-40" title="Permalink to this heading">#</a></h3>
+<section id="assignments-35">
+<h3>Assignments (35%)<a class="headerlink" href="#assignments-35" title="Permalink to this heading">#</a></h3>
 <p>There will be five assignments, each worth 8% of your final grade. Assignments will be hands-on coding assignments. Assignments are to be completed individually and submitted on datahub. You will typically have about 1 week after release to complete each assignment. Assignments will be due at 11:59 PM on the assigned date.</p>
 <p>Late assignments will be accepted at 75% credit for 72 hours (3 days) after the assignment’s due date. Once the late deadline passes, assignments will be graded, feedback will be made available on datahub, and assignments will no longer be able to be submitted for credit.</p>
 <p>You are personally responsible for understanding everything you turn in. While you may ask one another about assignments, you may not copy directly from a classmate. And, you may not post full assignments nor any part of any assignment on the Internet (i.e. Chegg, Discord, Piazza, or related site). Evidence of cheating on an assignment will result (at minimum) in loss of a full letter grade in the course.</p>
 </section>
-<section id="midterms-25">
-<h3>Midterms (25%)<a class="headerlink" href="#midterms-25" title="Permalink to this heading">#</a></h3>
-<p>There will be two (2) midterms. Each midterm will have two parts: 1) a conceptual, in-person portion taken on the day of the exam in class and 2) a technical, take-home portion, released after the exam and due that Friday (see <a class="reference external" href="https://cogs18.github.io/assets/intro/syllabus.html#course-schedule">Course Schedule</a>). The in-class portion will be closed-notes. The take-home portion will be open-notes and open-Google. All parts will be completed individually. Students will not be permitted to discuss the questions on the exam with anyone.</p>
+<section id="midterm-25">
+<h3>Midterm (25%)<a class="headerlink" href="#midterm-25" title="Permalink to this heading">#</a></h3>
+<p>There will be one (1) midterm. The midterm will have two parts: 1) a conceptual, in-person portion taken on the day of the exam in class and 2) a technical, take-home portion, released after the exam and due that Friday (see <a class="reference external" href="https://cogs18.github.io/assets/intro/syllabus.html#course-schedule">Course Schedule</a>). The in-class portion will be closed-notes. The take-home portion will be open-notes and open-Google. All parts will be completed individually. Students will not be permitted to discuss the questions on the exam with anyone.</p>
 <p>As former students know, I take academic integrity seriously, but I also trust most students to do the right thing. I would rather spend more time teaching and less time ensuring that there is no way for students to cheat because let’s be honest…there’s <em>always</em> a way to cheat. I trust and am confident that the vast majority of students care about their education enough to take this seriously and am unwilling to spend all my energy focused on those students who do not. That said, students should anticipate that if they are caught cheating on an exam, they will fail the class. ::steps off soapbox::</p>
 </section>
-<section id="final-project-or-exam-19">
-<h3>Final Project OR Exam (19%)<a class="headerlink" href="#final-project-or-exam-19" title="Permalink to this heading">#</a></h3>
-<p>Students will choose whether they complete the final project OR the final exam, worth 19% of your final grade Students get to choose which option is best for them but may only submit one <em>and</em> there are three limitations of choosing the final exam 1) There is no opportunity for extra credit on the final exam, 2) you cannot get help from anyone else while taking the final exam, and 3) the highest grade you can get if you choose the exam is an A. (To earn an A+, you must do the final project.)</p>
-<p><strong>Final Project</strong>
-You will learn more from the final project than you will from the final exam, but the project is more time-consuming and involved. We will discuss the details elsewhere; however, briefly, you will either (1) expand upon one of the class assignments adding original elements or (2) write original code for a project topic of your choosing. The goal of this project is to demonstrate that you can write good, well-documented code that solves the problem you’ve set out to solve.</p>
-<p><strong>Final Exam</strong>
-The final exam will be take-home and you will have at least 48 hours to complete the exam. It will be the completion of a guided, mini-project, focusing on the material learned in the last third of the course. Additional details will be discussed in class.</p>
+<section id="final-exam-25">
+<h3>Final Exam (25%)<a class="headerlink" href="#final-exam-25" title="Permalink to this heading">#</a></h3>
+<p>The final exam will be take-home and you will have at least 48 hours to complete the exam. It will be the completion of a guided, mini-project, focusing on the material learned in the last half of the course. Additional details will be discussed in class.</p>
 </section>
 </section>
 <hr class="docutils" />
@@ -733,278 +636,172 @@ The final exam will be take-home and you will have at least 48 hours to complete
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>4/4/2023</p></td>
+<tr class="row-even"><td><p>7/3/2023</p></td>
 <td><p>1</p></td>
-<td><p>Tu</p></td>
+<td><p>M</p></td>
 <td><p>Introduction</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>4/5/2023</p></td>
+<tr class="row-odd"><td><p>7/5/2023</p></td>
 <td><p>1</p></td>
 <td><p>W</p></td>
-<td><p></p></td>
+<td><p>Variables &amp; Operators</p></td>
 <td><p>CL1 - tooling</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>4/6/2023</p></td>
+<tr class="row-even"><td><p>7/6/2023</p></td>
 <td><p>1</p></td>
 <td><p>Th</p></td>
-<td><p>Variables &amp; Operators</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>4/11/2023</p></td>
-<td><p>2</p></td>
-<td><p>Tu</p></td>
 <td><p>Functions</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>4/12/2023</p></td>
+<tr class="row-odd"><td><p>7/10/2023</p></td>
 <td><p>2</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
+<td><p>M</p></td>
+<td><p>Conditionals</p></td>
 <td><p>CL2 - vars, operators</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>4/14/2023</p></td>
+<tr class="row-even"><td><p>7/11/2023</p></td>
 <td><p>2</p></td>
-<td><p>Th</p></td>
-<td><p>Conditionals</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p>4/18/2023</p></td>
-<td><p>3</p></td>
 <td><p>Tu</p></td>
 <td><p>Collections</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>4/19/2023</p></td>
-<td><p>3</p></td>
+<tr class="row-odd"><td><p>7/12/2023</p></td>
+<td><p>2</p></td>
 <td><p>W</p></td>
-<td><p></p></td>
+<td><p>Debugging</p></td>
 <td><p>CL3 - funcs, conditionals</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>4/20/2023</p></td>
-<td><p>3</p></td>
+<tr class="row-even"><td><p>7/13/2023</p></td>
+<td><p>2</p></td>
 <td><p>Th</p></td>
-<td><p>Debugging [*]</p></td>
+<td><p>Loops</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>4/21/2023</p></td>
-<td><p>3</p></td>
+<tr class="row-odd"><td><p>7/14/2023</p></td>
+<td><p>2</p></td>
 <td><p>F</p></td>
 <td><p></p></td>
 <td><p></p></td>
 <td><p>A1 - variables, comparison, functions</p></td>
 </tr>
-<tr class="row-even"><td><p>4/25/2023</p></td>
-<td><p>4</p></td>
-<td><p>Tu</p></td>
-<td><p>Loops</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>4/26/2023</p></td>
-<td><p>4</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
+<tr class="row-even"><td><p>7/17/2023</p></td>
+<td><p>3</p></td>
+<td><p>M</p></td>
+<td><p>Review</p></td>
 <td><p>CL4 - collections</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>4/27/2023</p></td>
-<td><p>4</p></td>
-<td><p>Th</p></td>
-<td><p>Review</p></td>
+<tr class="row-odd"><td><p>7/18/2023</p></td>
+<td><p>3</p></td>
+<td><p>Tu</p></td>
+<td><p>~Algorithms~ [*]</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>4/28/2023</p></td>
-<td><p>4</p></td>
+<tr class="row-even"><td><p>7/19/2023</p></td>
+<td><p>3</p></td>
+<td><p>W</p></td>
+<td><p>Methods</p></td>
+<td><p>CL5 - loops</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>7/20/2023</p></td>
+<td><p>3</p></td>
+<td><p>Th</p></td>
+<td><p><strong>Midterm: In-Class Portion</strong></p></td>
+<td><p></p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>7/21/2023</p></td>
+<td><p>3</p></td>
 <td><p>F</p></td>
 <td><p></p></td>
 <td><p></p></td>
 <td><p>A2 - conditionals, collections, ciphers</p></td>
 </tr>
-<tr class="row-even"><td><p>5/2/2023</p></td>
-<td><p>5</p></td>
-<td><p>Tu</p></td>
-<td><p><strong>E1</strong></p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/3/2023</p></td>
-<td><p>5</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p>5/4/2023</p></td>
-<td><p>5</p></td>
-<td><p>Th</p></td>
-<td><p>~Algorithms~</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/5/2023</p></td>
-<td><p>5</p></td>
-<td><p>F</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>E1: technical portion (take-home)</p></td>
-</tr>
-<tr class="row-even"><td><p>5/9/2023</p></td>
-<td><p>6</p></td>
-<td><p>Tu</p></td>
-<td><p>Methods</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/10/2023</p></td>
-<td><p>6</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
-<td><p>CL5 - loops</p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p>5/11/2023</p></td>
-<td><p>6</p></td>
-<td><p>Th</p></td>
+<tr class="row-odd"><td><p>7/24/2023</p></td>
+<td><p>4</p></td>
+<td><p>M</p></td>
 <td><p>Classes</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/12/2023</p></td>
-<td><p>6</p></td>
-<td><p>F</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>A3 - loops, strings, chatbots (now due: Mon 5/15)</p></td>
-</tr>
-<tr class="row-even"><td><p>5/16/2023</p></td>
-<td><p>7</p></td>
-<td><p>Tu</p></td>
-<td><p>Command Line [**]</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/17/2023</p></td>
-<td><p>7</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
 <td><p>CL6 - classes</p></td>
-<td><p></p></td>
+<td><p>Midterm: technical portion (take-home)</p></td>
 </tr>
-<tr class="row-even"><td><p>5/18/2023</p></td>
-<td><p>7</p></td>
-<td><p>Th</p></td>
-<td><p>Review</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/19/2023</p></td>
-<td><p>7</p></td>
-<td><p>F</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>A4 - methods, classes, agents (now due: Mon 5/22)</p></td>
-</tr>
-<tr class="row-even"><td><p>5/23/2023</p></td>
-<td><p>8</p></td>
+<tr class="row-even"><td><p>7/25/2023</p></td>
+<td><p>4</p></td>
 <td><p>Tu</p></td>
-<td><p><strong>E2</strong></p></td>
+<td><p>Command Line</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>5/24/2023</p></td>
-<td><p>8</p></td>
+<tr class="row-odd"><td><p>7/26/2023</p></td>
+<td><p>4</p></td>
 <td><p>W</p></td>
-<td><p></p></td>
+<td><p>Review</p></td>
 <td><p>CL7 - command line</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>5/25/2023</p></td>
-<td><p>8</p></td>
+<tr class="row-even"><td><p>7/27/2023</p></td>
+<td><p>4</p></td>
 <td><p>Th</p></td>
-<td><p>Python Party</p></td>
+<td><p>TBD</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>5/26/2023</p></td>
-<td><p>8</p></td>
+<tr class="row-odd"><td><p>7/28/2023</p></td>
+<td><p>4</p></td>
 <td><p>F</p></td>
 <td><p></p></td>
 <td><p></p></td>
-<td><p>E2: technical portion (take-home)</p></td>
+<td><p>A3 - loops, strings, chatbots</p></td>
 </tr>
-<tr class="row-even"><td><p>5/30/2023</p></td>
-<td><p>9</p></td>
-<td><p>Tu</p></td>
+<tr class="row-even"><td><p>7/31/2023</p></td>
+<td><p>6</p></td>
+<td><p>M</p></td>
 <td><p>Scientific Computing</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-odd"><td><p>5/31/2023</p></td>
-<td><p>9</p></td>
-<td><p>W</p></td>
-<td><p></p></td>
 <td><p>CL8 - scientific computing</p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-even"><td><p>6/1/2023</p></td>
-<td><p>9</p></td>
-<td><p>Th</p></td>
+<tr class="row-odd"><td><p>8/1/2023</p></td>
+<td><p>6</p></td>
+<td><p>Tu</p></td>
 <td><p>Code Style &amp; Documentation</p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
-<tr class="row-odd"><td><p>6/6/2023</p></td>
-<td><p>10</p></td>
-<td><p>Tu</p></td>
-<td><p>Code Testing</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p>6/7/2023</p></td>
-<td><p>10</p></td>
+<tr class="row-even"><td><p>8/2/2023</p></td>
+<td><p>6</p></td>
 <td><p>W</p></td>
-<td><p></p></td>
+<td><p>Code Testing</p></td>
 <td><p>CL9 - test, debug, refactor</p></td>
-<td><p></p></td>
+<td><p>A4 - methods, classes, agents</p></td>
 </tr>
-<tr class="row-odd"><td><p>6/8/2023</p></td>
-<td><p>10</p></td>
+<tr class="row-odd"><td><p>8/3/2023</p></td>
+<td><p>6</p></td>
 <td><p>Th</p></td>
-<td><p>Code Projects</p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p>6/9/2023</p></td>
-<td><p>10</p></td>
-<td><p>F</p></td>
-<td><p></p></td>
+<td><p>TBD</p></td>
 <td><p></p></td>
 <td><p>A5 - numpy, pandas, refactoring</p></td>
 </tr>
-<tr class="row-odd"><td><p>6/13/2023</p></td>
-<td><p>Finals</p></td>
-<td><p>Tu</p></td>
-<td><p>–</p></td>
+<tr class="row-even"><td><p>8/4/2023</p></td>
+<td><p>7</p></td>
+<td><p>F</p></td>
+<td><p></p></td>
 <td><p></p></td>
 <td><p>Final project/exam due</p></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Final Exam/Project</strong>: Final Projects/Exams (you’ll chose one) are due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.</p>
+<p><strong>Final Exam</strong>: Final Exam is due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.</p>
 <p>Notes:<br />
-[*] denotes the last day of material covered on Midterm I (E1).<br />
-[**] the last day for material on Midterm II (E2).</p>
+[*] denotes the last day of material covered on the Midterm.</p>
 </section>
 <hr class="docutils" />
 <section id="other-good-stuff">
@@ -1059,13 +856,11 @@ The final exam will be take-home and you will have at least 48 hours to complete
 <li><p><strong>questions about course logistics</strong> - first, check the syllabus. If you can’t find the answer there, first ask a classmate. If still unsure, post on Piazza.</p></li>
 <li><p><strong>questions about a grade</strong> - Post on Piazza with “regrades” tag in a private post to “Instructors &amp; TAs”.</p></li>
 <li><p><strong>something super cool to share related to class or want to talk about a topic in further depth</strong> - feel free to email the professor or come to office hours. Be sure to include COGS18 in the email subject line and your full name in your message.</p></li>
-<li><p><strong>some feedback about the course you want to share anonymously</strong> - If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the <a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSd1YNH8CqBbVxr_M9v_c3X-XLqySLrBfYE7GwuAshFMCP_WvQ/viewform?usp=sf_link">anonymous Google Form</a>*</p></li>
 </ul>
-<p>*This form can be taken down at any time if it’s not being used for its intended purpose; however, you all will be notified should that happen.</p>
 </section>
 <section id="what-should-you-call-me">
 <h3>What should you call me?<a class="headerlink" href="#what-should-you-call-me" title="Permalink to this heading">#</a></h3>
-<p>Most students call me Prof/Professor Ellis. I’m also perfectly happy if you call me Shannon (not all professors are OK with that kind of informality) or Dr. Ellis. I would prefer you <em>not</em> address me as Ms/Miss/Mrs. Ellis.</p>
+<p>You can call me Eric or Mr. Morgan - I haven’t finished my doctoral thesis yet, so I’m not Dr. Morgan yet :)</p>
 </section>
 <section id="what-should-i-call-you">
 <h3>What should I call you?<a class="headerlink" href="#what-should-i-call-you" title="Permalink to this heading">#</a></h3>
@@ -1149,24 +944,20 @@ The final exam will be take-home and you will have at least 48 hours to complete
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">SYLLABUS</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-overview">COURSE OVERVIEW</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-staff-information">COURSE STAFF &amp; INFORMATION</a></li>
-</ul>
-</li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#important-links">Important Links</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#important-links">Important Links</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-objectives">COURSE OBJECTIVES</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-materials">COURSE MATERIALS</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#grading-attendance">GRADING &amp; ATTENDANCE</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#grades">Grades</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-i-already-know-python-grading-policy">The “I already know Python” Grading Policy</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignment-regrades">Assignment Regrades</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#in-person-illness-policy">In-person illness policy</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture">Lecture</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coding-labs-16">Coding Labs (16%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignments-40">Assignments (40%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#midterms-25">Midterms (25%)</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#final-project-or-exam-19">Final Project OR Exam (19%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coding-labs-15">Coding Labs (15%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#assignments-35">Assignments (35%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#midterm-25">Midterm (25%)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#final-exam-25">Final Exam (25%)</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-schedule">COURSE SCHEDULE</a></li>
@@ -1183,9 +974,6 @@ The final exam will be take-home and you will have at least 48 hours to complete
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-
   </nav></div>
 
 </div></div>
