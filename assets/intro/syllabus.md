@@ -23,7 +23,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 |                | Siddarth Trivedi     | Tu 3:30-4:30p   | TBD               |
 
 
-# Important Links
+## Important Links
 - [Course Website](https://cogs18.github.io)
 - [Our syllabus](https://cogs18.github.io/assets/intro/syllabus.html)  
 - [Course Canvas](https://canvas.ucsd.edu/courses/47964)
@@ -130,6 +130,7 @@ As former students know, I take academic integrity seriously, but I also trust m
 ### Final Exam (25\%)
 
 The final exam will be take-home and you will have at least 48 hours to complete the exam. It will be the completion of a guided, mini-project, focusing on the material learned in the last half of the course. Additional details will be discussed in class.
+
 ---
 
 ## COURSE SCHEDULE
