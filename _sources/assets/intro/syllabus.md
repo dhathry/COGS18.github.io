@@ -19,8 +19,8 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | **Coding lab** | Nimit & Siddharth     | MW 1-2:00p      | CSB 001            |
 | **Office Hours** |                    |                 |                    |
 |                | **Eric Morgan**      | W 4:30-6:00p    | CSB 263               |
-|                | Nimit Vasavat        | Th 3:30-4:30p   | TBD               |
-|                | Siddharth Trivedi     | Tu 3:30-4:30p   | TBD               |
+|                | Nimit Vasavat        | Th 3:30-4:30p   | CSB 001            |
+|                | Siddharth Trivedi     | Tu 3:30-4:30p   | CSB 001               |
 
 
 ## Important Links
@@ -140,8 +140,8 @@ The final exam will be take-home and you will have at least 48 hours to complete
 | 7/5/2023  | 1      | W   | Tooling \& Variables |                |                                         |                            
 | 7/6/2023  | 1      | Th  |  variables \& Operators
   |                             |                                         |                            
-| 7/10/2023 | 2      | M  | Operators \& Functions |  CL1 - tooling, CL2 - vars, operators       |                                         |                           
-| 7/11/2023 | 2      | Tu | Functions \& Conditionals  |        |                                         |                            
+| 7/10/2023 | 2      | M  | Operators \& Functions |         |                                         |                           
+| 7/11/2023 | 2      | Tu | Functions \& Conditionals  |   CL1 - tooling, CL2 - vars, operators   |                                         |                            
 | 7/12/2023 | 2      | W  |  Conditionals \& Collections |  CL3 - funcs, conditionals      |                                         |                            
 | 7/13/2023 | 2      | Th  | Collections \& Debugging |                             |  A1 - variables, comparison, functions           
 | 7/17/2023 | 3      | M  |  Debugging \& Loops       |     CL4 - collections         | A2 - conditionals, collections, ciphers            |                            
