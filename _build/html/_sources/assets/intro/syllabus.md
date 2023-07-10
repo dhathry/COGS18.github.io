@@ -137,28 +137,28 @@ The final exam will be take-home and you will have at least 48 hours to complete
 | Date      | Week   | Day | Lecture topic          | Lab topic                   | Assignment due  (11:59 PM)              |                        
 | --------- | ------ | --- | ---------------------- | --------------------------- | --------------------------------------- | 
 | 7/3/2023  | 1      | M  | Introduction           |                             |                                         |                            
-| 7/5/2023  | 1      | W   | Variables & Operators | CL1 - tooling               |                                         |                            
-| 7/6/2023  | 1      | Th  |  Functions  |                             |                                         |                            
-| 7/10/2023 | 2      | M  | Conditionals |  CL2 - vars, operators       |                                         |                           
-| 7/11/2023 | 2      | Tu | Collections   |        |                                         |                            
-| 7/12/2023 | 2      | W  |  Debugging |  CL3 - funcs, conditionals      |                                         |                            
-| 7/13/2023 | 2      | Th  | Loops      |                             |                                         |                            
-| 7/14/2023 | 2      | F   |                 |                 |   A1 - variables, comparison, functions    |                            
-| 7/17/2023 | 3      | M  |  Review       |     CL4 - collections         |                                         |                            
-| 7/18/2023 | 3      | Tu   |  ~Algorithms~ [*]   |                             |    |                            
-| 7/19/2023 | 3      | W  |  Methods    |   CL5 - loops          |                                         |
+| 7/5/2023  | 1      | W   | Tooling \& Variables |                |                                         |                            
+| 7/6/2023  | 1      | Th  |  variables \& Operators
+  |                             |                                         |                            
+| 7/10/2023 | 2      | M  | Operators \& Functions |  CL1 - tooling, CL2 - vars, operators       |                                         |                           
+| 7/11/2023 | 2      | Tu | Functions \& Conditionals  |        |                                         |                            
+| 7/12/2023 | 2      | W  |  Conditionals \& Collections |  CL3 - funcs, conditionals      |                                         |                            
+| 7/13/2023 | 2      | Th  | Collections \& Debugging |                             |  A1 - variables, comparison, functions           
+| 7/17/2023 | 3      | M  |  Debugging \& Loops       |     CL4 - collections         | A2 - conditionals, collections, ciphers            |                            
+| 7/18/2023 | 3      | Tu   |  Loops \& Methods [*]   |                             |    |                            
+| 7/19/2023 | 3      | W  |  Methods \& Classes |   CL5 - loops          |                                         |
 | 7/20/2023 | 3      | Th   | **Midterm: In-Class Portion**     |            |                                         |                            
-| 7/21/2023 | 3      | F  |                  |                             |  A2 - conditionals, collections, ciphers      |                            
-| 7/24/2023 | 4      | M   |  Classes       | CL6 - classes    | Midterm: technical portion (take-home) |                            
-| 7/25/2023  | 4      | Tu  | Command Line  |                             |                                         | 
-| 7/26/2023  | 4      | W   | Review        |  CL7 - command line      |                                         |                            
-| 7/27/2023  | 4      | Th  |  TBD   |                             |                                         |                            
-| 7/28/2023  | 4      | F   |                        |          |  A3 - loops, strings, chatbots |                            
-| 7/31/2023  | 6      | M   |  Scientific Computing |  CL8 - scientific computing     |                                         |                            
-| 8/1/2023 | 6      | Tu  | Code Style \& Documentation  |                  |                                         |                            
-| 8/2/2023 | 6      | W   |  Code Testing  | CL9 - test, debug, refactor  |A4 - methods, classes, agents   |                            
-| 8/3/2023 | 6      | Th  |   TBD         |             |   A5 - numpy, pandas, refactoring  |                            
-| 8/4/2023 | 7      | F   |       |                             | Final project/exam due      |                            
+| 7/21/2023 | 3      | F  |                  |                             |  Midterm: technical portion (take-home) |                            
+| 7/24/2023 | 4      | M   |  Classes \& Command Line | CL6 - classes    |  A3 - loops, strings, chatbots |                            
+| 7/25/2023  | 4      | Tu  | Command Line \& Modules |                             |                                         | 
+| 7/26/2023  | 4      | W   | Modules \& Scientific Computing |  CL7 - command line      |                                         |                            
+| 7/27/2023  | 4      | Th  |  Scientific Computing \& Documentation   |                             |                                         |                            
+| 7/28/2023  | 4      | F   |                        |          |     A4 - methods, classes, agents      |                            
+| 7/31/2023  | 5      | M   | Documentation \& Code Testing |  CL8 - scientific computing     |                                         |                            
+| 8/1/2023 | 5      | Tu  | Code Testing \& Code Projects  |                  |                                         |                            
+| 8/2/2023 | 5      | W   |  Review  | CL9 - test, debug, refactor  |               |                            
+| 8/3/2023 | 5      | Th  |   Wrap-up         |             |   A5 - numpy, pandas, refactoring  |                            
+| 8/4/2023 | 5      | F   |       |                             | Final project/exam due      |                            
 
 
 **Final Exam**: Final Exam is due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.
