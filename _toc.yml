@@ -29,12 +29,10 @@ parts:
       title: 08-Debugging
     - file: materials/09-Loops
       title: 09-Loops
-  # #   - file: materials/10-Algorithms
-  # #     title: 10-Algorithms
     - file: materials/10-Methods
       title: 10-Methods
-  #   - file: materials/11-Classes
-  #     title: 11-Classes
+    - file: materials/11-Classes
+      title: 11-Classes
   #   - file: materials/12-CommandLine
   #     title: 12-CommandLine
   #   - file: materials/13-Modules
@@ -111,3 +109,13 @@ parts:
   #     title: FAQ
   #   - file: projects/ProjectIdeas
   #     title: ProjectIdeas
+  - caption: Answers
+    chapters:
+    - file: materials/Answers/A1_Answers
+      title: Assignment A1
+    - file: materials/Answers/CL2-ProgrammingI_Answers
+      title: Coding Lab CL2
+    - file: materials/Answers/CL3-ProgrammingII_Answers
+      title: Coding Lab CL3
+    - file: materials/Answers/CL4-Collections_Answers
+      title: Coding Lab CL4
