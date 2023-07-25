@@ -33,12 +33,12 @@ parts:
       title: 10-Methods
     - file: materials/11-Classes
       title: 11-Classes
-  #   - file: materials/12-CommandLine
-  #     title: 12-CommandLine
-  #   - file: materials/13-Modules
-  #     title: 13-Modules
-  #   - file: materials/14-ScientificComputing
-  #     title: 14-ScientificComputing   
+    - file: materials/12-CommandLine
+      title: 12-CommandLine
+    - file: materials/13-Modules
+      title: 13-Modules
+    - file: materials/14-ScientificComputing
+      title: 14-ScientificComputing   
   #   - file: materials/15-Documentation
   #     title: 15-Documentation
   #   - file: materials/16-CodeTesting
