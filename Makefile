@@ -44,6 +44,7 @@ textbook:
 	git clone --depth 1 https://www.github.com/COGS18/Projects.git projects
 	rm projects/README.md
 
+	# jupyter-book clean -a ./
 	jupyter-book build --all ./
 	# get project template
 	mkdir -p _build/html/assets/intro/projects/
