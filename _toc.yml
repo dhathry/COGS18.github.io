@@ -1,7 +1,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Course Info
+  - caption: Course Information
     chapters:
     - file: assets/intro/syllabus-Morgan
       title: Morgan-SYLLABUS
