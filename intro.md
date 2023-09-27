@@ -8,7 +8,7 @@ Introduction to Python (COGS 18) is a course offered by the Department of Cognit
 
 ### Current Iteration
 
-Introduction to Python is currently running for Fall 2023, please read the syllabus [for Eric Morgan's](assets/intro/syllabus-Morgan) or [Brian Hempel's](assets/intro/syllabus-Hempel) class.
+Introduction to Python is currently running for Fall 2023, please read the syllabus for [Eric Morgan's](assets/intro/syllabus-Morgan) or [Brian Hempel's](assets/intro/syllabus-Hempel) class.
 
 
 ### Materials
