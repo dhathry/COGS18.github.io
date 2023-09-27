@@ -4,9 +4,9 @@ parts:
   - caption: Course Info
     chapters:
     - file: assets/intro/syllabus-Morgan
-      title: SYLLABUS_Morgan
+      title: Morgan-SYLLABUS
     - file: assets/intro/syllabus-Hempel
-      title: SYLLABUS_Hempel
+      title: Hempel-SYLLABUS
     - file: assets/intro/labs/overview
       title: CODING LABS
     - file: assets/intro/assignments/overview
