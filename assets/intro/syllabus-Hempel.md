@@ -1,4 +1,4 @@
-# SYLLABUS
+# SYLLABUS - Sec B (Hempel)
 
 **Introduction to Python** | **Fall 2023**
 
@@ -30,10 +30,10 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 
 # Important Links
-- [Course Website](https://urldefense.com/v3/__https://cogs18.github.io__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLBX6oFK0w$ )
-- [Our syllabus](https://urldefense.com/v3/__https://cogs18.github.io/assets/intro/syllabus.html__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLAvrd2EIA$ )
+- [Course Website](https://cogs18.github.io)
+- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus.html)
 - [Course Canvas](https://canvas.ucsd.edu/courses/50663)
-- [Course Piazza\*](https://urldefense.com/v3/__https://piazza.com/ucsd/fall2023/cogs18/home__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLCP7v6MOw$ )
+- [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18/home)
 - [DataHub](https://datahub.ucsd.edu)
 - [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
 
@@ -58,9 +58,9 @@ To achieve these objectives, information will be presented during lecture. You w
 
 ## COURSE MATERIALS
 
-- All materials will be provided via the [course website](https://urldefense.com/v3/__https://cogs18.github.io__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLBX6oFK0w$ ) and [datahub](https://datahub.ucsd.edu)
+- All materials will be provided via the [course website](https://cogs18.github.io) and [datahub](https://datahub.ucsd.edu)
   - Software (optional): Python >=3.6 (Anaconda distribution); Jupyter Notebooks (this will be available on datahub)
-  - No required textbook; optional textbook: [https://urldefense.com/v3/__https://shanellis.github.io/pythonbook*(https:/*shanellis.github.io/pythonbook)__;XS8!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLBt8Kn27A$   (currently under development; feedback welcome)
+  - No required textbook; optional textbook: [https://shanellis.github.io/pythonbook](https://shanellis.github.io/pythonbook)  (currently under development; feedback welcome)
 
 Detailed instruction for software installations/access will be listed on the course website and provided across week 1 coding labs. All of the software is freely-available for download.
 
@@ -103,7 +103,7 @@ To calculate final grades, I use the standard grading scale and do not round gra
 
 ### The "I already know Python" Grading Policy
 
-If you have to take this course to fulfill a requirement but are already *very* familiar with the course content, there is an option for you! I'm interested in student learning, not busy work, so if you already know the material, let's save you some time. Students who choose this option only have to complete the two midterms (both the in-person and take-home portions) and either the final exam or the final project. Each midterm will count for 25\% of your final grade and the final will count for 50\% of your final grade. Students may opt-into this at any time during the quarter up until the due date of the final by filling out [this form](https://urldefense.com/v3/__https://docs.google.com/forms/d/e/1FAIpQLSdQ-divoAZzGpnXtZjxSYhELgYY7ozp-HeNoAey7TXS8sfDfw/viewform?usp=sf_link__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLC-q8-iLw$ ); however, **once you opt in you cannot change your mind**. For example, if you decide in week 4 that you want to opt-in and then bomb the first exam, you cannot change your mind in week 6, as you would then be behind, would have missed some deadlines, and  dealing with this logistical nightmare would not be fair to course staff. That said, **if you're on the fence, I'd encourage you to complete the course as designed until you're certain you want to go this route.**
+If you have to take this course to fulfill a requirement but are already *very* familiar with the course content, there is an option for you! I'm interested in student learning, not busy work, so if you already know the material, let's save you some time. Students who choose this option only have to complete the two midterms (both the in-person and take-home portions) and either the final exam or the final project. Each midterm will count for 25\% of your final grade and the final will count for 50\% of your final grade. Students may opt-into this at any time during the quarter up until the due date of the final by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdQ-divoAZzGpnXtZjxSYhELgYY7ozp-HeNoAey7TXS8sfDfw/viewform?usp=sf_link); however, **once you opt in you cannot change your mind**. For example, if you decide in week 4 that you want to opt-in and then bomb the first exam, you cannot change your mind in week 6, as you would then be behind, would have missed some deadlines, and  dealing with this logistical nightmare would not be fair to course staff. That said, **if you're on the fence, I'd encourage you to complete the course as designed until you're certain you want to go this route.**
 
 ### Assignment Regrades
 
@@ -119,7 +119,7 @@ Please do not attend any in-person activity (lecture/coding lab/office hours) if
 
 Students are encouraged to attend lecture live; however, **in-person attendance is not required, *except* on exam days**. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates' thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&A. Students will receive a small amount of extra credit for *each* lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (_not_ the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).
 
-Information on setting up iClicker is [here](https://urldefense.com/v3/__https://mhe.my.site.com/iclicker/s/article/How-to-Create-an-iClicker-Student-Account__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLAo9bjL7g$ ).
+Information on setting up iClicker is [here](https://mhe.my.site.com/iclicker/s/article/How-to-Create-an-iClicker-Student-Account).
 
 ### Coding Labs (16\%)
 
@@ -137,7 +137,7 @@ You are personally responsible for understanding everything you turn in. While y
 
 ### Midterms (25\%)
 
-There will be two (2) midterms. Each midterm will have two parts: 1) a conceptual, in-person portion taken on the day of the exam in class and 2) a technical, take-home portion, released after the exam and due that Friday (see [Course Schedule](https://urldefense.com/v3/__https://cogs18.github.io/assets/intro/syllabus.html*course-schedule__;Iw!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLC8ey0wdA$ )). The in-class portion will be closed-notes. The take-home portion will be open-notes and open-Google. All parts will be completed individually. Students will not be permitted to discuss the questions on the exam with anyone.
+There will be two (2) midterms. Each midterm will have two parts: 1) a conceptual, in-person portion taken on the day of the exam in class and 2) a technical, take-home portion, released after the exam and due that Friday (see [Course Schedule](https://cogs18.github.io/assets/intro/syllabus.html#course-schedule)). The in-class portion will be closed-notes. The take-home portion will be open-notes and open-Google. All parts will be completed individually. Students will not be permitted to discuss the questions on the exam with anyone.
 
 As former students know, I take academic integrity seriously, but I also trust most students to do the right thing. I would rather spend more time teaching and less time ensuring that there is no way for students to cheat because let's be honest...there's _always_ a way to cheat. I trust and am confident that the vast majority of students care about their education enough to take this seriously and am unwilling to spend all my energy focused on those students who do not. That said, students should anticipate that if they are caught cheating on an exam, they will fail the class. ::steps off soapbox::
 
@@ -248,7 +248,7 @@ Sometimes life outside of academia can be difficult. Please [email me](mailto:bh
 
 If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness.
 
-If you need emergency food, finances, and/or academic and social support you can also contact [UCSD Mutual Aid](https://urldefense.com/v3/__https://mutualaiducsd.wordpress.com__;!!Mih3wA!HfWD5Uqvr-LHWuD6qnUZtfdoAYoogNRaXWu_b0caqVwnh8Do-XNeMhqmK0_myChmFnTNzE78YLBn_B-w3w$ ). They provide mentoring and aid that comes from volunteers among your peers.  If you don't need that kind of support, consider joining them in helping your fellow classmates who do.
+If you need emergency food, finances, and/or academic and social support you can also contact [UCSD Mutual Aid](https://mutualaiducsd.wordpress.com). They provide mentoring and aid that comes from volunteers among your peers.  If you don't need that kind of support, consider joining them in helping your fellow classmates who do.
 
 If you need counseling or if you are in a mental crisis you can contact [CAPS](https://caps.ucsd.edu). They provide psychiatric services, workshops, and counseling; they also operate a 24/7 crisis hotline at 858.534.3755.
 
