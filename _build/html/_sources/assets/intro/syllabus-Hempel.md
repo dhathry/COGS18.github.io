@@ -10,13 +10,20 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ---
 
+**\*\*\* Datahub and Canvas and Piazza are still being set up...try at 6pm today. At that time, if you are registered for the class but don't have access yet please email me at bhempel@uscd.edu to make sure it gets taken care of. \*\*\***
+
+
+**Regardless, be sure to show up for your section of Coding Labs on Friday in CSB 115! The TAs will help you get everything set up.**
+
+---
+
 ## Important Links
 - [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
 - [Course Website](https://cogs18.github.io)
 - [Our syllabus](https://cogs18.github.io/assets/intro/syllabus-Hempel.html)
-- [Course Canvas](https://canvas.ucsd.edu/courses/51003)
-- [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18_fa23_b00)
-- [DataHub](https://datahub.ucsd.edu)
+- [Course Canvas](https://canvas.ucsd.edu/courses/51003) (Still being set up)
+- [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18_fa23_b00) (Still being set up)
+- [DataHub](https://datahub.ucsd.edu) (Still being set up)
 - *iClicker web:* [join code CBKW](https://join.iclicker.com/CBKW)<br>
   *iClicker remote:* hold power button, then press AB<br>
   *iClicker Student mobile app:* search for COGS 18 Intro to Python (Sec B)
