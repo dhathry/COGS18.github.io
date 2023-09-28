@@ -10,6 +10,21 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ---
 
+## Important Links
+- [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
+- [Course Website](https://cogs18.github.io)
+- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus-Hempel.html)
+- Course Canvas
+- Course Piazza\*
+- [DataHub](https://datahub.ucsd.edu)
+- *iClicker web:* [join code CBKW](https://join.iclicker.com/CBKW)<br>
+  *iClicker remote:* hold power button, then press AB<br>
+  *iClicker Student mobile app:* search for COGS 18 Intro to Python (Sec B)
+
+\*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. The instructional staff will be able to see who you are.
+
+---
+
 ## COURSE STAFF & INFORMATION
 
 | **What**         | **Who**       | **When**         | **Where**                |
@@ -24,20 +39,59 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 |                  | Dev Hayatpur  | F 2:00p-2:50p    | CSB 115                  |
 | **Office Hours** |               |                  |                          |
 |                  | Brian Hempel  | TBD              | TBD                      |
-|                  | Samuel Taylor | TBD              | TBD                      |
+|                  | Samuel Taylor | Tu 11a-12p       | TBD                      |
 |                  | Dev Hayatpur  | TBD              | TBD                      |
 
+---
 
+## COURSE SCHEDULE
+| Date       | Week   | Day  | Lecture topic            | Lab topic                   | Assignment due  (11:59 PM)              |
+| ---------- | ------ | ---- | ------------------------ | --------------------------- | --------------------------------------- |
+| 9/28/2023  | 0      | Th   | Introduction             |                             |                                         |
+| 9/29/2023  | 0      | F    |                          | CL1 - tooling               |                                         |
+| 10/3/2023  | 1      | Tu   | Variables & Operators    |                             |                                         |
+| 10/5/2023  | 1      | Th   | Functions                |                             |                                         |
+| 10/6/2023  | 1      | F    |                          | CL2 - vars, operators       |                                         |
+| 10/10/2023 | 2      | Tu   | Conditionals             |                             |                                         |
+| 10/12/2023 | 2      | Th   | Collections              |                             |                                         |
+| 10/13/2023 | 2      | F    |                          | CL3 - funcs, conditionals   |                                         |
+| 10/17/2023 | 3      | Tu   | Debugging [*]            |                             |                                         |
+| 10/19/2023 | 3      | Th   | Loops                    |                             |                                         |
+| 10/20/2023 | 3      | F    |                          | CL4 - collections           |                                         |
+| 10/21/2023 | 3      | Sa   |                          |                             | A1 - variables, comparison, functions   |
+| 10/24/2023 | 4      | Tu   | Review                   |                             |                                         |
+| 10/26/2023 | 4      | Th   | **E1**                   |                             |                                         |
+| 10/28/2023 | 4      | Sa   |                          |                             | A2 - conditionals, collections, ciphers |
+| 10/31/2023 | 5      | Tu   | Methods                  |                             |                                         |
+| 11/1/2023  | 5      | W    |                          |                             | E1: technical portion (take-home)       |
+| 11/2/2023  | 5      | Th   | Classes                  |                             |                                         |
+| 11/3/2023  | 5      | F    |                          | CL5 - loops, CL6 - classes  |                                         |
+| 11/7/2023  | 6      | Tu   | Command Line [**]        |                             |                                         |
+| 11/9/2023  | 6      | Th   | Modules                  |                             |                                         |
+| 11/10/2023 | 6      | F    | **Veterans Day Holiday** |                             |                                         |
+| 11/11/2023 | 6      | Sa   |                          |                             | A3 - loops, strings, chatbots           |
+| 11/14/2023 | 7      | Tu   | Review                   |                             |                                         |
+| 11/16/2023 | 7      | Th   | **E2**                   |                             |                                         |
+| 11/17/2023 | 7      | F    |                          | CL7 - command line          |                                         |
+| 11/18/2023 | 7      | Sa   |                          |                             | A4 - methods, classes, agents           |
+| 11/21/2023 | 8      | Tu   | Scientific Computing     |                             |                                         |
+| 11/22/2023 | 8      | W    |                          |                             | E2: technical portion (take-home)       |
+| 11/23/2023 | 8      | Th   | **Thanksgiving Holiday** |                             |                                         |
+| 11/24/2023 | 8      | F    |                          |                             |                                         |
+| 11/28/2023 | 9      | Tu   | Documentation            |                             |                                         |
+| 11/30/2023 | 9      | Th   | Code Testing             |                             |                                         |
+| 12/1/2023  | 9      | F    |                          | CL8 - scientific computing  |                                         |
+| 12/5/2023  | 10     | Tu   | Code Projects            |                             |                                         |
+| 12/7/2023  | 10     | Th   | Wrap-up                  |                             |                                         |
+| 12/8/2023  | 10     | F    |                          | CL9 - test, debug, refactor |                                         |
+| 12/9/2023  | 10     | Sa   |                          |                             | A5 - numpy, pandas, refactoring         |
+| 12/12/2023 | Finals | Tu   |                          |                             | Final project/exam due                  |
 
-# Important Links
-- [Course Website](https://cogs18.github.io)
-- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus.html)
-- [Course Canvas](https://canvas.ucsd.edu/courses/50663)
-- [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18/home)
-- [DataHub](https://datahub.ucsd.edu)
-- [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
+**Final Exam/Project**: Final Projects/Exams (you'll chose one) are due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.
 
-\*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. The instructional staff will be able to see who you are.
+Notes:
+[\*] denotes the last day of material covered on Midterm I (E1).
+[\*\*] the last day for material on Midterm II (E2).
 
 ---
 
@@ -117,7 +171,7 @@ Please do not attend any in-person activity (lecture/coding lab/office hours) if
 
 ### Lecture
 
-Students are encouraged to attend lecture live; however, **in-person attendance is not required, *except* on exam days**. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates' thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&A. Students will receive a small amount of extra credit for *each* lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (_not_ the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).
+You are encouraged to attend lecture live; however, **in-person attendance is not required, *except* on exam days**. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates' thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&A. Students will receive a small amount of extra credit for *each* lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (_not_ the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).
 
 Information on setting up iClicker is [here](https://mhe.my.site.com/iclicker/s/article/How-to-Create-an-iClicker-Student-Account).
 
@@ -150,57 +204,6 @@ You will learn more from the final project than you will from the final exam, bu
 
 **Final Exam**
 The final exam will be take-home and you will have at least 48 hours to complete the exam. It will be the completion of a guided, mini-project, focusing on the material learned in the last third of the course. Additional details will be discussed in class.
-
----
-
-## COURSE SCHEDULE
-| Date       | Week   | Day  | Lecture topic            | Lab topic                   | Assignment due  (11:59 PM)              |
-| ---------- | ------ | ---- | ------------------------ | --------------------------- | --------------------------------------- |
-| 9/28/2023  | 0      | Th   | Introduction             |                             |                                         |
-| 9/29/2023  | 0      | F    |                          | CL1 - tooling               |                                         |
-| 10/3/2023  | 1      | Tu   | Variables & Operators    |                             |                                         |
-| 10/5/2023  | 1      | Th   | Functions                |                             |                                         |
-| 10/6/2023  | 1      | F    |                          | CL2 - vars, operators       |                                         |
-| 10/10/2023 | 2      | Tu   | Conditionals             |                             |                                         |
-| 10/12/2023 | 2      | Th   | Collections              |                             |                                         |
-| 10/13/2023 | 2      | F    |                          | CL3 - funcs, conditionals   |                                         |
-| 10/17/2023 | 3      | Tu   | Debugging [*]            |                             |                                         |
-| 10/19/2023 | 3      | Th   | Loops                    |                             |                                         |
-| 10/20/2023 | 3      | F    |                          | CL4 - collections           |                                         |
-| 10/21/2023 | 3      | Sa   |                          |                             | A1 - variables, comparison, functions   |
-| 10/24/2023 | 4      | Tu   | Review                   |                             |                                         |
-| 10/26/2023 | 4      | Th   | **E1**                   |                             |                                         |
-| 10/28/2023 | 4      | Sa   |                          |                             | A2 - conditionals, collections, ciphers |
-| 10/31/2023 | 5      | Tu   | Methods                  |                             |                                         |
-| 11/1/2023  | 5      | W    |                          |                             | E1: technical portion (take-home)       |
-| 11/2/2023  | 5      | Th   | Classes                  |                             |                                         |
-| 11/3/2023  | 5      | F    |                          | CL5 - loops, CL6 - classes  |                                         |
-| 11/7/2023  | 6      | Tu   | Command Line [**]        |                             |                                         |
-| 11/9/2023  | 6      | Th   | Modules                  |                             |                                         |
-| 11/10/2023 | 6      | F    | **Veterans Day Holiday** |                             |                                         |
-| 11/11/2023 | 6      | Sa   |                          |                             | A3 - loops, strings, chatbots           |
-| 11/14/2023 | 7      | Tu   | Review                   |                             |                                         |
-| 11/16/2023 | 7      | Th   | **E2**                   |                             |                                         |
-| 11/17/2023 | 7      | F    |                          | CL7 - command line          |                                         |
-| 11/18/2023 | 7      | Sa   |                          |                             | A4 - methods, classes, agents           |
-| 11/21/2023 | 8      | Tu   | Scientific Computing     |                             |                                         |
-| 11/22/2023 | 8      | W    |                          |                             | E2: technical portion (take-home)       |
-| 11/23/2023 | 8      | Th   | **Thanksgiving Holiday** |                             |                                         |
-| 11/24/2023 | 8      | F    |                          |                             |                                         |
-| 11/28/2023 | 9      | Tu   | Documentation            |                             |                                         |
-| 11/30/2023 | 9      | Th   | Code Testing             |                             |                                         |
-| 12/1/2023  | 9      | F    |                          | CL8 - scientific computing  |                                         |
-| 12/5/2023  | 10     | Tu   | Code Projects            |                             |                                         |
-| 12/7/2023  | 10     | Th   | Wrap-up                  |                             |                                         |
-| 12/8/2023  | 10     | F    |                          | CL9 - test, debug, refactor |                                         |
-| 12/9/2023  | 10     | Sa   |                          |                             | A5 - numpy, pandas, refactoring         |
-| 12/12/2023 | Finals | Tu   |                          |                             | Final project/exam due                  |
-
-**Final Exam/Project**: Final Projects/Exams (you'll chose one) are due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.
-
-Notes:
-[\*] denotes the last day of material covered on Midterm I (E1).
-[\*\*] the last day for material on Midterm II (E2).
 
 ---
 
