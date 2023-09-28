@@ -34,7 +34,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 # Important Links
 - [Course Website](https://cogs18.github.io)
-- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus.html)
+- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus-Morgan.html)
 - [Course Canvas](https://canvas.ucsd.edu/courses/50663)
 - [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18/home)
 - [DataHub](https://datahub.ucsd.edu)
