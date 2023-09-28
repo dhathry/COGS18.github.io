@@ -12,7 +12,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ## COURSE STAFF & INFORMATION
 
-| **What**       | **Who**            | **When**        | **Where**                                                          |
+| **What**       | **Who**              | **When**        | **Where**                                                          |
 | ----------     | -------------------- | --------------- | ------------------ |
 | **Lecture**    | Eric Morgan          | TuTh 3:30p-4:50p| Peterson Hall 110  |
 |                |                      |                 |                    |
