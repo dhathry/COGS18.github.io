@@ -10,14 +10,6 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ---
 
-**\*\*\* Still waiting for Datahub to be set up for all y'all. It should be ready before labs tomorrow. \*\*\***
-
-**[Canvas]((https://canvas.ucsd.edu/courses/51003)) and [Piazza](https://piazza.com/ucsd/fall2023/cogs18_fa23_b00) are working now. I think waitlist students are included as well. If you don't have access to those yet please email me at bhempel@uscd.edu to make sure it gets taken care of.**
-
-**Regardless, be sure to show up for your section of Coding Labs on Friday in CSB 115! The TAs will help you get everything set up.**
-
----
-
 ## Important Links
 - [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
 - [Course Website](https://cogs18.github.io)
