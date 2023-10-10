@@ -40,7 +40,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | **Office Hours** |               |                  |                          |
 |                  | Dev Hayatpur  | M 10a-11p        | CSB 114                  |
 |                  | Samuel Taylor | Tu 11a-12p       | CSB 114                  |
-|                  | John Gunasar  | Tu 3a-4p         | CSB 114                  |
+|                  | John Gunasar  | Tu 3p-4p         | CSB 114                  |
 |                  | Brian Hempel  | Th 12p-1p        | CSB 114                  |
 |                  | Brian Hempel  | F 3p-4:30p       | CSB 272                  |
 
