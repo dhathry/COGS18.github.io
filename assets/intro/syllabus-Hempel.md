@@ -27,21 +27,22 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ## COURSE STAFF & INFORMATION
 
-| **What**         | **Who**       | **When**         | **Where**                |
-| ---------------- | ------------- | ---------------- | ------------------------ |
-| **Lecture**      | Brian Hempel  | TuTh 8:00a-9:20a | Warren Lecture Hall 2005 |
-|                  |               |                  |                          |
-| **Coding lab**   | Samuel Taylor | F 9:00a-9:50a    | CSB 115                  |
-|                  | Samuel Taylor | F 10:00a-10:50a  | CSB 115                  |
-|                  | Samuel Taylor | F 11:00p-11:50p  | CSB 115                  |
-|                  | Dev Hayatpur  | F 12:00p-12:50p  | CSB 115                  |
-|                  | Dev Hayatpur  | F 1:00p-1:50p    | CSB 115                  |
-|                  | Dev Hayatpur  | F 2:00p-2:50p    | CSB 115                  |
-| **Office Hours** |               |                  |                          |
-|                  | Dev Hayatpur  | M 10a-11p        | CSB 114                  |
-|                  | Samuel Taylor | Tu 11a-12p       | CSB 114                  |
-|                  | Brian Hempel  | Th 12p-1p        | CSB 114                  |
-|                  | Brian Hempel  | F 3p-4:30p       | CSB 272                  |
+| **What**         | **Who**       | **When**         | **Where**                                              |
+| ---------------- | ------------- | ---------------- | ------------------------------------------------------ |
+| **Lecture**      | Brian Hempel  | TuTh 8:00a-9:20a | Warren Lecture Hall 2005                               |
+|                  |               |                  |                                                        |
+| **Coding lab**   | Samuel Taylor | F 9:00a-9:50a    | CSB 115                                                |
+|                  | Samuel Taylor | F 10:00a-10:50a  | CSB 115                                                |
+|                  | Samuel Taylor | F 11:00p-11:50p  | CSB 115                                                |
+|                  | Dev Hayatpur  | F 12:00p-12:50p  | CSB 115                                                |
+|                  | Dev Hayatpur  | F 1:00p-1:50p    | CSB 115                                                |
+|                  | Dev Hayatpur  | F 2:00p-2:50p    | CSB 115                                                |
+| **Office Hours** |               |                  |                                                        |
+|                  | Dev Hayatpur  | M 10a-11p        | CSB 114                                                |
+|                  | Samuel Taylor | Tu 11a-12p       | CSB 114 and [Zoom](https://ucsd.zoom.us/j/96723950303) |
+|                  | John Gunasar  | Tu 3p-4p         | CSB 114                                                |
+|                  | Brian Hempel  | Th 12p-1p        | CSB 114                                                |
+|                  | Brian Hempel  | F 3p-4:30p       | CSB 272                                                |
 
 ---
 
