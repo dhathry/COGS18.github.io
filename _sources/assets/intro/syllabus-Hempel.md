@@ -65,11 +65,11 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | 10/21/2023 | 3      | Sa   |                          |                             | A1 - variables, comparison, functions   |
 | 10/24/2023 | 4      | Tu   | Review                   |                             |                                         |
 | 10/26/2023 | 4      | Th   | **E1**                   |                             |                                         |
-| 10/28/2023 | 4      | Sa   |                          |                             | A2 - conditionals, collections, ciphers |
 | 10/31/2023 | 5      | Tu   | Methods                  |                             |                                         |
 | 11/1/2023  | 5      | W    |                          |                             | E1: technical portion (take-home)       |
 | 11/2/2023  | 5      | Th   | Classes                  |                             |                                         |
 | 11/3/2023  | 5      | F    |                          | CL5 - loops, CL6 - classes  |                                         |
+| 11/4/2023  | 5      | Sa   |                          |                             | A2 - conditionals, collections, ciphers |
 | 11/7/2023  | 6      | Tu   | Command Line [**]        |                             |                                         |
 | 11/9/2023  | 6      | Th   | Modules                  |                             |                                         |
 | 11/10/2023 | 6      | F    | **Veterans Day Holiday** |                             |                                         |
