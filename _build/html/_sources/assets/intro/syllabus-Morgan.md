@@ -171,9 +171,10 @@ The final exam will be take-home and you will have at least 48 hours to complete
 | 10/24/2023 | 4      | Tu  | Review                  |                             |                                         |
 | 10/25/2023 | 4      | W   |                         | CL4 - collections           |                                         |
 | 10/26/2023 | 4      | Th  | **E1**                  |                             |                                         |
-| 10/27/2023 | 4      | F   |                         |                             | A2 - conditionals, collections, ciphers |
+| 10/27/2023 | 4      | F   |                         |                             | E1: technical portion (take-home)       |
+| 10/29/2023 | 4      | Su  |                         |                             | A2 - conditionals, collections, ciphers |
 | 10/31/2023 | 5      | Tu  | Methods                 |                             |                                         |
-| 11/1/2023  | 5      | W   |                         | CL5 - loops                 | E1: technical portion (take-home)       |
+| 11/1/2023  | 5      | W   |                         | CL5 - loops                 |                                         |
 | 11/2/2023  | 5      | Th  | Classes                 |                             |                                         |
 | 11/3/2023  | 5      | F   |                         |                             |                                         |
 | 11/7/2023  | 6      | Tu  | Command Line [**]       |                             |                                         |
@@ -183,14 +184,15 @@ The final exam will be take-home and you will have at least 48 hours to complete
 | 11/14/2023 | 7      | Tu  | Review                  |                             |                                         |
 | 11/15/2023 | 7      | W   |                         | CL7 - command line          |                                         |
 | 11/16/2023 | 7      | Th  | **E2**                  |                             |                                         |
-| 11/17/2023 | 7      | F   |                         |                             | A4 - methods, classes, agents
+| 11/17/2023 | 7      | F   |                         |                             | E2: technical portion (take-home)       |
+| 11/19/2023 | 7      | Su  |                         |                             | A4 - methods, classes, agents           |
 | 11/21/2023 | 8      | Tu  | Scientific Computing    |                             |                                         |
-| 11/22/2023 | 8      | W   |                         |                             | E2: technical portion (take-home)       |
+| 11/22/2023 | 8      | W   |                         |                             |                                         |
 | 11/23/2023 | 8      | Th  | **Thanksgiving Holiday**|                             |                                         |
 | 11/24/2023 | 8      | F   |                         |                             |                                         |
 | 11/28/2023 | 9      | Tu  | Documentation           |                             |                                         |
 | 11/29/2023 | 9      | W   |                         | CL8 - scientific computing  |                                         |
-| 11/30/2023 | 9      | Th  | Code Testing            |                          |                                         |
+| 11/30/2023 | 9      | Th  | Code Testing            |                             |                                         |
 | 12/5/2023  | 10     | Tu  | Code Projects           |                             |                                         |
 | 12/6/2023  | 10     | W   |                         | CL9 - test, debug, refactor |                                         |
 | 12/7/2023  | 10     | Th  | Wrap-up                 |                             |                                         |
