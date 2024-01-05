@@ -3,10 +3,8 @@ root: intro
 parts:
   - caption: Course Information
     chapters:
-    - file: assets/intro/syllabus-Morgan
-      title: SYLLABUS - Sec A (Morgan)
-    - file: assets/intro/syllabus-Hempel
-      title: SYLLABUS - Sec B (Hempel)
+    - file: assets/intro/syllabus
+      title: SYLLABUS
     - file: assets/intro/labs/overview
       title: CODING LABS
     - file: assets/intro/assignments/overview
