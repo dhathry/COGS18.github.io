@@ -1,6 +1,8 @@
-# SYLLABUS - Sec B (Hempel)
+v0.01 Jan 6, 2024 --- subject to change in the first two weeks!
 
-**Introduction to Python** | **Fall 2023**
+# COGS 18 syllabus
+
+**Introduction to Python** | **Winter 2024**
 
 ---
 
@@ -10,92 +12,46 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ---
 
-## Important Links
-- [Section B (Hempel): Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=sec-b-fa23)
-- [Course Website](https://cogs18.github.io)
-- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus-Hempel.html)
-- [Course Canvas](https://canvas.ucsd.edu/courses/51003)
-- [Course Piazza\*](https://piazza.com/ucsd/fall2023/cogs18_fa23_b00)
-- [DataHub](https://datahub.ucsd.edu)
-- *iClicker web:* [join code CBKW](https://join.iclicker.com/CBKW)<br>
-  *iClicker remote:* hold power button, then press AB<br>
-  *iClicker Student mobile app:* search for COGS 18 Intro to Python (Sec B)
-
-\*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. The instructional staff will be able to see who you are.
-
----
-
 ## COURSE STAFF & INFORMATION
 
-| **What**         | **Who**            | **When**         | **Where**                                              |
-| ---------------- | ------------------ | ---------------- | ------------------------------------------------------ |
-| **Lecture**      | Brian Hempel       | TuTh 8a-9:20a    | Warren Lecture Hall 2005                               |
-|                  |                    |                  |                                                        |
-| **Coding lab**   | Samuel Taylor      | F 9a-9:50a       | CSB 115                                                |
-|                  | Samuel Taylor      | F 10a-10:50a     | CSB 115                                                |
-|                  | Samuel Taylor      | F 11p-11:50p     | CSB 115                                                |
-|                  | Dev Hayatpur       | F 12p-12:50p     | CSB 115                                                |
-|                  | Dev Hayatpur       | F 1p-1:50p       | CSB 115                                                |
-|                  | Dev Hayatpur       | F 2p-2:50p       | CSB 115                                                |
-| **Office Hours** |                    |                  |                                                        |
-|                  | Dev Hayatpur       | M 10a-11p        | CSB 114                                                |
-|                  | Samuel Taylor      | Tu 11a-12p       | CSB 114 and [Zoom](https://ucsd.zoom.us/j/96723950303) |
-|                  | John Gunasar       | Tu 3p-4p         | CSB 114                                                |
-|                  | Adolfo Valencia    | W 4p-5p          | CSB 114                                                |
-|                  | Khushi Raghuvanshi | W 4p-5p          | [Zoom](https://ucsd.zoom.us/j/4609144890)              |
-|                  | Brian Hempel       | Th 12p-1p        | CSB 114                                                |
-|                  | Brian Hempel       | F 3p-4:30p       | CSB 272                                                |
+|| What        |     | When |               | Where                                                          |     | Who             |
+| ----------- | --- | ---- | ------------- | -------------------------------------------------------------- | --- | --------------- |
+| Lecture     | A00 | MWF  | 10:00a-10:50a | [CTL](https://map.concept3d.com/?id=1005#!s/CTL_Main?ct/18312) | 125 | Jason Flesicher |
+| Coding labs | A01 | W    | 6:00p-6:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A02 | W    | 7:00p-7:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A03 | W    | 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A04 | W    | 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A05 | W    | 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A06 | W    | 2:00p-2:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A07 | W    | 3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A08 | W    | 4:00p-4:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A09 | W    | 5:00p-5:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
 
----
 
-## COURSE SCHEDULE
-| Date       | Week   | Day  | Lecture topic            | Lab topic                   | Assignment due  (11:59 PM)              |
-| ---------- | ------ | ---- | ------------------------ | --------------------------- | --------------------------------------- |
-| 9/28/2023  | 0      | Th   | Introduction             |                             |                                         |
-| 9/29/2023  | 0      | F    |                          | CL1 - tooling               |                                         |
-| 10/3/2023  | 1      | Tu   | Variables & Operators    |                             |                                         |
-| 10/5/2023  | 1      | Th   | Functions                |                             |                                         |
-| 10/6/2023  | 1      | F    |                          | CL2 - vars, operators       |                                         |
-| 10/10/2023 | 2      | Tu   | Conditionals             |                             |                                         |
-| 10/12/2023 | 2      | Th   | Collections              |                             |                                         |
-| 10/13/2023 | 2      | F    |                          | CL3 - funcs, conditionals   |                                         |
-| 10/17/2023 | 3      | Tu   | Debugging [*]            |                             |                                         |
-| 10/19/2023 | 3      | Th   | Loops                    |                             |                                         |
-| 10/20/2023 | 3      | F    |                          | CL4 - collections           |                                         |
-| 10/21/2023 | 3      | Sa   |                          |                             | A1 - variables, comparison, functions   |
-| 10/24/2023 | 4      | Tu   | Review                   |                             |                                         |
-| 10/26/2023 | 4      | Th   | **E1**                   |                             |                                         |
-| 10/31/2023 | 5      | Tu   | Methods                  |                             |                                         |
-| 11/1/2023  | 5      | W    |                          |                             | E1: technical portion (take-home)       |
-| 11/2/2023  | 5      | Th   | Classes                  |                             |                                         |
-| 11/3/2023  | 5      | F    |                          | CL5 - loops, CL6 - classes  |                                         |
-| 11/4/2023  | 5      | Sa   |                          |                             | A2 - conditionals, collections, ciphers |
-| 11/7/2023  | 6      | Tu   | Command Line [**]        |                             |                                         |
-| 11/9/2023  | 6      | Th   | Modules                  |                             |                                         |
-| 11/10/2023 | 6      | F    | **Veterans Day Holiday** |                             |                                         |
-| 11/11/2023 | 6      | Sa   |                          |                             | A3 - loops, strings, chatbots           |
-| 11/14/2023 | 7      | Tu   | Review                   |                             |                                         |
-| 11/16/2023 | 7      | Th   | **E2**                   |                             |                                         |
-| 11/17/2023 | 7      | F    |                          | CL7 - command line          |                                         |
-| 11/18/2023 | 7      | Sa   |                          |                             | A4 - methods, classes, agents           |
-| 11/21/2023 | 8      | Tu   | Scientific Computing     |                             |                                         |
-| 11/22/2023 | 8      | W    |                          |                             | E2: technical portion (take-home)       |
-| 11/23/2023 | 8      | Th   | **Thanksgiving Holiday** |                             |                                         |
-| 11/24/2023 | 8      | F    |                          |                             |                                         |
-| 11/28/2023 | 9      | Tu   | Documentation            |                             |                                         |
-| 11/30/2023 | 9      | Th   | Code Testing             |                             |                                         |
-| 12/1/2023  | 9      | F    |                          | CL8 - scientific computing  |                                         |
-| 12/5/2023  | 10     | Tu   | Code Projects            |                             |                                         |
-| 12/7/2023  | 10     | Th   | Wrap-up                  |                             |                                         |
-| 12/8/2023  | 10     | F    |                          | CL9 - test, debug, refactor |                                         |
-| 12/9/2023  | 10     | Sa   |                          |                             | A5 - numpy, pandas, refactoring         |
-| 12/12/2023 | Finals | Tu   |                          |                             | Final project/exam due                  |
 
-**Final Exam/Project**: Final Projects/Exams (you'll chose one) are due on the date of the scheduled final exam by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.
+|       Role | Name                                                       | Coding Lab | Office Hours |
+| ---------: | :--------------------------------------------------------- | :--------- | :----------- |
+| Instructor | Prof Jason ([jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu)) | --         | [Signup for office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PiKrmBJF-4qEuv81ZTxWgf_NyOl39WH8xD6KXvLFVZ-l44s2QEIMO5XHvIOqbYduRnbEXwErJ) OH can be in person or on zoom, depending on the day. Follow directions while making your appointment to select which modality |
+|         TA |   Name                                             | TBH        | TBH          |
+|         TA | Name                                             | TBH        | TBH          |
+|         TA | Name                                                | TBH        | TBH          |
+|         TA | Name                                                    | TBH        | TBH          |
+|         IA | Name                                                 | TBH        | TBH          |
+|         IA | Name                                                | TBH        | TBH          |
+|         IA | Name                                             | TBH        | TBH          |
+|         IA | Name                                               | TBH        | TBH          |
+|         IA | Name                                       | TBH        | TBH          |
 
-Notes:
-[\*] denotes the last day of material covered on Midterm I (E1).
-[\*\*] the last day for material on Midterm II (E2).
+
+# Important Links
+- [Course Website](https://cogs18.github.io)
+- [Our syllabus](https://cogs18.github.io/assets/intro/syllabus.html)
+- [Course Canvas](https://canvas.ucsd.edu/courses/52283)
+- [Course Piazza\*](https://piazza.com/class/lr2rd5idwar1ym/)
+- [DataHub](https://datahub.ucsd.edu)
+- [Click me to synchronize the most recent lecture materials to your DataHub](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCOGS18%2FLectureNotes-COGS18&urlpath=tree%2FLectureNotes-COGS18%2F&branch=main)
+
+\*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. The instructional staff will be able to see who you are.
 
 ---
 
@@ -118,7 +74,7 @@ To achieve these objectives, information will be presented during lecture. You w
 
 - All materials will be provided via the [course website](https://cogs18.github.io) and [datahub](https://datahub.ucsd.edu)
   - Software (optional): Python >=3.6 (Anaconda distribution); Jupyter Notebooks (this will be available on datahub)
-  - No required textbook; optional textbook: [https://shanellis.github.io/pythonbook](https://shanellis.github.io/pythonbook)  (currently under development; feedback welcome)
+  - No required textbook; optional textbook: [https://shanellis.github.io/pythonbook](https://shanellis.github.io/pythonbook) (currently under development; feedback welcome)
 
 Detailed instruction for software installations/access will be listed on the course website and provided across week 1 coding labs. All of the software is freely-available for download.
 
@@ -159,15 +115,13 @@ To calculate final grades, I use the standard grading scale and do not round gra
 | 60-62%                  | D-                        |
 | <60%                    | F                         |
 
-### The "I already know Python" Grading Policy
 
-If you have to take this course to fulfill a requirement but are already *very* familiar with the course content, there is an option for you! I'm interested in student learning, not busy work, so if you already know the material, let's save you some time. Students who choose this option only have to complete the two midterms (both the in-person and take-home portions) and either the final exam or the final project. Each midterm will count for 25\% of your final grade and the final will count for 50\% of your final grade. Students may opt-into this at any time during the quarter up until the due date of the final by filling out [this form](https://forms.gle/XHGVokm9MPDF5HKM8); however, **once you opt in you cannot change your mind**. For example, if you decide in week 4 that you want to opt-in and then bomb the first exam, you cannot change your mind in week 6, as you would then be behind, would have missed some deadlines, and  dealing with this logistical nightmare would not be fair to course staff. That said, **if you're on the fence, I'd encourage you to complete the course as designed until you're certain you want to go this route.**
 
 ### Assignment Regrades
 
 We will work hard to grade everyone fairly and return assignments quickly. And, we know you also work hard and want you to receive the grade you've earned. Occasionally, grading mistakes do happen, and it's important to us to correct them. If you think there is a mistake in your grade on an assignment, post _privately_ on Piazza to "Instructors & TAs" using the "regrades" tag within 72 hours. This post should include evidence of why you think your answer was correct and should point to the specific part of the assignment in question.
 
-Note that points will _not_ be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter.
+Note that points will _not_ be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. You will not be allowed a regrade/late submission becuase you accidentally forgot to press the right button or you submitted the wrong copy of the assignment. This is because following instructions and being detail-oriented is important for programmers. It is your responsibility to sweat the details.
 
 ### In-person illness policy
 
@@ -175,13 +129,11 @@ Please do not attend any in-person activity (lecture/coding lab/office hours) if
 
 ### Lecture
 
-You are encouraged to attend lecture live; however, **in-person attendance is not required, *except* on exam days**. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates' thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&A. Students will receive a small amount of extra credit for *each* lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (_not_ the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).
-
-Information on setting up iClicker is [here](https://mhe.my.site.com/iclicker/s/article/How-to-Create-an-iClicker-Student-Account).
+Students are encouraged to attend lecture live; however, **in-person attendance is not required, *except* on exam days**. All lectures will be recorded/podcast. However, during lecture, students will be given time to complete small coding challenges on their own, and will have the opportunity to see their classmates' thoughts during lecture. To incentivize attendance, we will use iClickers for in-class Q&A. Students will receive a small amount of extra credit for *each* lecture attended, up to 5% extra credit (for those who attend every lecture) on their final project/exam (_not_ the final course grade). To earn credit in a given day, students must respond to at least 50% of the questions asked on that day (correctness does not matter).
 
 ### Coding Labs (16\%)
 
-Lab times will be used to get hands-on practice with the course material in a smaller group setting. As such, you will be provided with specific tutorials or activities each week that are focused on preparing you for the assignments. Across the quarter there will be 9 different coding labs (2\% each; lowest coding lab score dropped). Coding labs are _graded for concerted effort_ (not correctness). To receive credit for a coding lab, you have to submit your attempted coding lab for that week by the end of the lab day at 11:59 pm each week. There are no late submissions for coding labs.
+Lab times will be used to get hands-on practice with the course material in a smaller group setting. As such, you will be provided with specific tutorials or activities each week that are focused on preparing you for the assignments. Across the quarter there will be 9 different coding labs (2\% each; lowest coding lab score dropped). Coding labs are _graded for concerted effort_ (not correctness). To receive credit for a coding lab, you have to submit your attempted coding lab for that week by Wednesday at 11:59 pm each week. There are no late submissions for coding labs.
 
 Note: You should be signed up for the Coding Lab for which you can attend. However, if you are unable to attend the Coding Lab for which you are signed up, you are free to attend another Coding Lab in a given week. Note that this policy could change if too many people are attending one Coding Lab each week. We intentionally have Coding Lab capped at 35 so that students can get help from their TAs and IAs during this time.
 
@@ -208,6 +160,52 @@ You will learn more from the final project than you will from the final exam, bu
 
 **Final Exam**
 The final exam will be take-home and you will have at least 48 hours to complete the exam. It will be the completion of a guided, mini-project, focusing on the material learned in the last third of the course. Additional details will be discussed in class.
+
+---
+
+## COURSE SCHEDULE
+
+| L# | Date      | Week   | Day | Lecture topic                       | Lab topic                  | Assignment due                                      |
+| -- | --------- | ------ | --- | ----------------------------------- | -------------------------- | --------------------------------------------------- |
+| 1  | 1/8/2024  | 1      | M   | Introduction                        |                            |                                                     |
+| 2  | 1/10/2024 | 1      | W   | Tooling                             | CL1 - tooling              |                                                     |
+| 3  | 1/12/2024 | 1      | F   | Variables                           |                            |                                                     |
+|    | 1/15/2024 | 2      | M   | NO CLASS - MLK                      |                            | Extra credit pre-course survey + skills assessment  |
+| 4  | 1/17/2024 | 2      | W   | Operators I                         | CL2 - vars, operators      |                                                     |
+| 5  | 1/19/2024 | 2      | F   | Operators II                        |                            |                                                     |
+| 6  | 1/22/2024 | 3      | M   | Functions                           |                            |                                                     |
+| 7  | 1/25/2024 | 3      | W   | Conditionals I                      | CL3 - funcs, conditionals  |                                                     |
+| 8  | 1/26/2024 | 3      | F   | Conditionals II                     |                            | A1 - variables, comparison, functions               |
+| 9  | 1/29/2024 | 4      | M   | Collections                         |                            |                                                     |
+| 10 | 1/31/2024 | 4      | W   | Debugging                           | CL4 - collections          |                                                     |
+| 11 | 2/2/2024  | 4      | F   | Exam 1 in class component           |                            | A2 - conditionals, collections, ciphers             |
+| 12 | 2/5/2024  | 5      | M   | Loops                               |                            | Exam 1 - technical take home component              |
+| 13 | 2/7/2024  | 5      | W   | Loops II                            | CL5 - loops                |                                                     |
+| 14 | 2/9/2024  | 5      | F   | Methods                             |                            |                                                     |
+| 15 | 2/12/2024 | 6      | M   | Classes I                           |                            | A3 - loops, strings, chatbots                       |
+| 16 | 2/14/2024 | 6      | W   | Classes II                          | CL6 - classes              |                                                     |
+| 17 | 2/16/2024 | 6      | F   | Classes III                         |                            |                                                     |
+|    | 2/19/2024 | 7      | M   | NO CLASS - President's              |                            |                                                     |
+| 18 | 2/21/2024 | 7      | W   | Command Line                        |                            |                                                     |
+| 19 | 2/23/2024 | 7      | F   | Command Line II                     |                            | A4 - methods, classes, agents                       |
+| 20 | 2/26/2024 | 8      | M   | Python party + Scientific computing |                            |                                                     |
+| 21 | 2/28/2024 | 8      | W   | Scientific computing II             | CL7 - command line         |                                                     |
+| 22 | 3/1/2024  | 8      | F   | Exam 2 in class component           |                            |                                                     |
+| 23 | 3/4/2024  | 9      | M   | Documentation                       |                            | Exam 2 - technical take home component              |
+| 24 | 3/6/2024  | 9      | W   | Code Testing                        | CL8 - scientific computing |                                                     |
+| 25 | 3/8/2024  | 9      | F   | Code Testing II                     |                            | A5 - numpy, pandas, refactoring                     |
+| 26 | 3/11/2024 | 10     | M   | Code Projects                       |                            |                                                     |
+| 27 | 3/13/2024 | 10     | W   | Code Projects II                    | Projects                   |                                                     |
+| 28 | 3/15/2024 | 10     | F   | Wrap up                             |                            | Extra credit post-course survey + skills assessment |
+|    | 3/18/2024 | Finals | M   |                                     |                            |                                                     |
+|    | 3/20/2024 | Finals | W   |                                    |                            |       Take home final or project                 |
+|    | 3/22/2024 | Finals | F   |              |                            |                           |
+
+**Final Exam/Project**: Final Projects/Exams (you'll chose one) are due on Wednesday of finals week by 11:59 PM. You do not have to show up anywhere at the scheduled date/time of the final.
+
+Notes:
+[\*] denotes the last day of material covered on Midterm I (Exam 1).
+[\*\*] the last day for material on Midterm II (Exam 2).
 
 ---
 
@@ -251,7 +249,7 @@ http://disabilities.ucsd.edu
 
 ### Difficult life situations
 
-Sometimes life outside of academia can be difficult. Please [email me](mailto:bhempel@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
+Sometimes life outside of academia can be difficult. Please [email me](mailto:jfleischer@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
 
 If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness.
 
@@ -273,15 +271,17 @@ If you have:
 - **questions about course logistics** - first, check the syllabus. If you can't find the answer there, first ask a classmate. If still unsure, post on Piazza.
 - **questions about a grade** - Post on Piazza with "regrades" tag in a private post to "Instructors & TAs".
 - **something super cool to share related to class or want to talk about a topic in further depth** - feel free to email the professor or come to office hours. Be sure to include COGS18 in the email subject line and your full name in your message.
+- **some feedback about the course you want to share anonymously** - If you've been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn't but would rather not share this publicly, etc., please fill out the [anonymous Google Form](https://forms.gle/zEtwVZCm1p6ZADk96)\*
 
+\*This form can be taken down at any time if it's not being used for its intended purpose; however, you all will be notified should that happen.
 
 ### What should you call me?
 
-You can call me Brian or Dr. Hempel. I'm not technically a professor.
+Most students call me Professor Fleischer or Dr. Fleischer. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
 
-### What should I call you?
+### What I should call you
 
-I should call you by your name, with the correct pronunciation. Please correct me (out loud in the moment, via email/Piazza after the fact, or however you're most comfortable) if I ever make a mistake.
+I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
 
 ### What should you expect of your interactions with instructional staff?
 
