@@ -14,7 +14,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 
 ## COURSE STAFF & INFORMATION
 
-|| What        |     | When |               | Where                                                          |     | Who             |
+| What        |     | When |               | Where                                                          |     | Who             |
 | ----------- | --- | ---- | ------------- | -------------------------------------------------------------- | --- | --------------- |
 | Lecture     | A00 | MWF  | 10:00a-10:50a | [CTL](https://map.concept3d.com/?id=1005#!s/CTL_Main?ct/18312) | 125 | Jason Flesicher |
 | Coding labs | A01 | W    | 6:00p-6:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
