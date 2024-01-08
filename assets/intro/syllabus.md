@@ -78,7 +78,7 @@ To achieve these objectives, information will be presented during lecture. You w
 
 Detailed instruction for software installations/access will be listed on the course website and provided across week 1 coding labs. All of the software is freely-available for download.
 
-Note: If you do not have consistent access to the technology needed, please use the form below to request a loaner laptop: [https://eforms.ucsd.edu/view.php?id=490887](https://eforms.ucsd.edu/view.php?id=490887). (For any issues that you may have, please email vcsa@ucsd.edu and they will work to assist you.)
+Note: If you do not have consistent access to the technology needed, please use [this form to request a loaner laptop](https://support.ucsd.edu/students?id=sc_cat_item&sys_id=841055f31b0aa51072c3a6c1b24bcb96). If you have questions you can email techlending@ucsd.edu
 
 ---
 
