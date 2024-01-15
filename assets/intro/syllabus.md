@@ -22,9 +22,9 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 |             | A03 | W    | 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie)            |
 |             | A04 | W    | 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie)             |
 |             | A05 | W    | 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie)             |
-|             | A06 | W    | 2:00p-2:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
-|             | A07 | W    | 3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
-|             | A08 | W    | 4:00p-4:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A06 | W    | 2:00p-2:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Uditi             |
+|             | A07 | W    | 3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Uditi             |
+|             | A08 | W    | 4:00p-4:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Uditi             |
 |             | A09 | W    | 5:00p-5:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
 
 
@@ -34,7 +34,7 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | Instructor | Prof Jason ([jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu)) | --         | [Signup for office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PiKrmBJF-4qEuv81ZTxWgf_NyOl39WH8xD6KXvLFVZ-l44s2QEIMO5XHvIOqbYduRnbEXwErJ) OH can be in person or on zoom, depending on the day. Follow directions while making your appointment to select which modality |
 |         TA |  Boning(Bonnie) Yang (boyang@ucsd.edu)        | A03/A04/A05       | Wed 3-5pm virtual on Zoom:https://us05web.zoom.us/j/89954634650?pwd=UaTzrrFvSBSKhFjNkTkbO5dxK9XQFs.1
 if time not work, please email me to schedule OH   |
-|         TA | Name                                             | TBH        | TBH          |
+|         TA | Uditi Namdev (unamdev@ucsd.edu)               | A06/A07/A08       | Mon 4-6pm virtual on Zoom: https://ucsd.zoom.us/j/96051289591        |
 |         TA | Name                                                | TBH        | TBH          |
 |         TA | Name                                                    | TBH        | TBH          |
 |         IA | Name                                                 | TBH        | TBH          |
