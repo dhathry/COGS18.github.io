@@ -41,7 +41,7 @@ if time not work, please email me to schedule OH   |
 |         IA | Name                                                | TBH        | TBH          |
 |         IA | Name                                             | TBH        | TBH          |
 |         IA | Name                                               | TBH        | TBH          |
-|         IA | Name                                       | TBH        | TBH          |
+|         IA | Ian Zane (izane@ucsd.edu)                                       | A03/A05        | Tues 6-7 on [Zoom](https://ucsd.zoom.us/j/3182146054)          |
 
 
 # Important Links
